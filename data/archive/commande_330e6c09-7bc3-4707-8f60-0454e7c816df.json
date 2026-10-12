@@ -1,0 +1,23 @@
+{
+    "order_id": "330e6c09-7bc3-4707-8f60-0454e7c816df",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:57.676700",
+    "client_id": "C755",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 500,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

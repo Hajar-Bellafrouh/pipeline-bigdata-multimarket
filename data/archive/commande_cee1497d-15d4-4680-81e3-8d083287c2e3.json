@@ -1,0 +1,17 @@
+{
+    "order_id": "cee1497d-15d4-4680-81e3-8d083287c2e3",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:12:25.991384",
+    "client_id": "C979",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 400,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

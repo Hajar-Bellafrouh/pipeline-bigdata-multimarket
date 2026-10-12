@@ -1,0 +1,16 @@
+{
+    "order_id": "041f4d92-5f55-4713-b17f-6dd3e72c3fa0",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:50.087910",
+    "client_id": "C811",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 150,
+    "statut": "annulee"
+}

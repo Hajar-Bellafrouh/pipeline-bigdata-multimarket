@@ -1,0 +1,23 @@
+{
+    "order_id": "40199ea9-9b93-4a3d-a7c2-86db9fdf4683",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:05:40.316886",
+    "client_id": "C761",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 900,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

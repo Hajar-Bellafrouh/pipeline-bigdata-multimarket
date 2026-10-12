@@ -1,0 +1,17 @@
+{
+    "order_id": "17e134b7-6f85-4715-b3d1-dfe680801099",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:12:15.961913",
+    "client_id": "C915",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

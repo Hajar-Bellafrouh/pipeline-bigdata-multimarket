@@ -1,0 +1,22 @@
+{
+    "order_id": "cbfc0f2a-b2f0-4fb2-86c1-7e3233455e0c",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:35:13.760250",
+    "client_id": "C760",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 4200,
+    "statut": "annulee"
+}

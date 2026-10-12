@@ -1,0 +1,17 @@
+{
+    "order_id": "2854e43d-19b1-4918-87fd-407c32398434",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:43.950122",
+    "client_id": "C996",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 150,
+    "statut": "validee",
+    "adresse_livraison": "Fès"
+}

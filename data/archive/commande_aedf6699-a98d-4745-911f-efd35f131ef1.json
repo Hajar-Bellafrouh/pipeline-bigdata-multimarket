@@ -1,0 +1,22 @@
+{
+    "order_id": "aedf6699-a98d-4745-911f-efd35f131ef1",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:07.318154",
+    "client_id": "C178",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 550,
+    "statut": "validee"
+}

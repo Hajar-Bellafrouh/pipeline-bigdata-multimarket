@@ -1,0 +1,28 @@
+{
+    "order_id": "69222829-1fd5-4961-9b6c-3c35e2d1aee6",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:39:38.179399",
+    "client_id": "C604",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 780,
+    "statut": "annulee"
+}

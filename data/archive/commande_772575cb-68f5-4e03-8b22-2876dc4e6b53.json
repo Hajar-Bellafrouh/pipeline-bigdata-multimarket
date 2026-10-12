@@ -1,0 +1,22 @@
+{
+    "order_id": "772575cb-68f5-4e03-8b22-2876dc4e6b53",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:31:39.255466",
+    "client_id": "C337",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 1,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 1500,
+    "statut": "validee"
+}

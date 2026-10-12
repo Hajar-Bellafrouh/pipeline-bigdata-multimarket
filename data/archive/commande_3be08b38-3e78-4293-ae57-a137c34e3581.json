@@ -1,0 +1,17 @@
+{
+    "order_id": "3be08b38-3e78-4293-ae57-a137c34e3581",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:19:51.842260",
+    "client_id": "C398",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 160,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "080d5302-1281-4302-82c6-fcf8176888e1",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:26:49.599230",
+    "client_id": "C601",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 3680,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

@@ -1,0 +1,22 @@
+{
+    "order_id": "59d47226-e70e-45e0-b553-a67a5405aaeb",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:39:02.104502",
+    "client_id": "C145",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 360,
+    "statut": "validee"
+}

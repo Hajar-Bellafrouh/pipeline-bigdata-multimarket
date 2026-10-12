@@ -1,0 +1,23 @@
+{
+    "order_id": "5357b2c9-79cb-417a-ad2f-e3047b8ed1ba",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:37.645638",
+    "client_id": "C313",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1500,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "68d7e5d6-90ca-4f27-8bbd-1600b933ceaf",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:14:09.105339",
+    "client_id": "C206",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1350,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "055fa425-c1b2-40b7-b014-18a00116ca7a",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:13:32.069497",
+    "client_id": "C862",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2600,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

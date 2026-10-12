@@ -1,0 +1,29 @@
+{
+    "order_id": "90b64e80-ee2d-4c8a-813e-ba0efb8dd27e",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:31.916749",
+    "client_id": "C531",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2860,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

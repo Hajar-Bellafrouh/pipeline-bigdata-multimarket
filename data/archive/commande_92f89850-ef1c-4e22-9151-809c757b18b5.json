@@ -1,0 +1,22 @@
+{
+    "order_id": "92f89850-ef1c-4e22-9151-809c757b18b5",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:29:20.923832",
+    "client_id": "C206",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 2100,
+    "statut": "validee"
+}

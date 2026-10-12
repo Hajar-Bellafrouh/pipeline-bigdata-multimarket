@@ -1,0 +1,23 @@
+{
+    "order_id": "4328aa32-d691-413d-a158-d94e9da24c41",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:28.355500",
+    "client_id": "C490",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 1800,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

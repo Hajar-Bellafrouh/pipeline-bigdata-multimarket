@@ -1,0 +1,23 @@
+{
+    "order_id": "7d5598f1-f489-4ca2-b917-da252ec672db",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:25:01.439147",
+    "client_id": "C208",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 450,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

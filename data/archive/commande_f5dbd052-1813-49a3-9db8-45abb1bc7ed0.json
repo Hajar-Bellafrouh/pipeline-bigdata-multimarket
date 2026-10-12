@@ -1,0 +1,17 @@
+{
+    "order_id": "f5dbd052-1813-49a3-9db8-45abb1bc7ed0",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:49.212012",
+    "client_id": "C377",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 400,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

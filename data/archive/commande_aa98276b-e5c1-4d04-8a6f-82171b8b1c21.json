@@ -1,0 +1,29 @@
+{
+    "order_id": "aa98276b-e5c1-4d04-8a6f-82171b8b1c21",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:14:13.130572",
+    "client_id": "C397",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 790,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

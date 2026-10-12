@@ -1,0 +1,29 @@
+{
+    "order_id": "da1c085f-9b1c-4e34-992e-c535fddf3e79",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:21:21.002512",
+    "client_id": "C922",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 3300,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

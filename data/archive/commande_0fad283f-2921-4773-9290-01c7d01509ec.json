@@ -1,0 +1,17 @@
+{
+    "order_id": "0fad283f-2921-4773-9290-01c7d01509ec",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:40.384827",
+    "client_id": "C324",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "6be8d354-3005-40f6-8192-17592bc9ca97",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:23:25.260150",
+    "client_id": "C628",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 4050,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

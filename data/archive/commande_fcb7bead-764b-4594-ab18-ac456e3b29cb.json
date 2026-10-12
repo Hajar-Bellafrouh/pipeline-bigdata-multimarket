@@ -1,0 +1,22 @@
+{
+    "order_id": "fcb7bead-764b-4594-ab18-ac456e3b29cb",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:30:00.021867",
+    "client_id": "C157",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 4000,
+    "statut": "annulee"
+}

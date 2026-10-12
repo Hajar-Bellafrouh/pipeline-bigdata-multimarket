@@ -1,0 +1,17 @@
+{
+    "order_id": "4f4a7d40-0f05-4671-980e-b8a0f6dcff12",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:40.186216",
+    "client_id": "C648",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 300,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

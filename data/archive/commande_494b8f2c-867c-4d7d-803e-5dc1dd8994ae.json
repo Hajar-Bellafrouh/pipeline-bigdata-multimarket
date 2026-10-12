@@ -1,0 +1,23 @@
+{
+    "order_id": "494b8f2c-867c-4d7d-803e-5dc1dd8994ae",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:09.131427",
+    "client_id": "C414",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 700,
+    "statut": "validee",
+    "adresse_livraison": "Fès"
+}

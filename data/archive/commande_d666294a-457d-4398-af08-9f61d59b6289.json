@@ -1,0 +1,29 @@
+{
+    "order_id": "d666294a-457d-4398-af08-9f61d59b6289",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:25:17.453069",
+    "client_id": "C914",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 3100,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

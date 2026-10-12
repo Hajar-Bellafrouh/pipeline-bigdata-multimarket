@@ -1,0 +1,22 @@
+{
+    "order_id": "d56d6b35-d699-481e-a42f-db4918ae3d5e",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:40.402239",
+    "client_id": "C123",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 1100,
+    "statut": "validee"
+}

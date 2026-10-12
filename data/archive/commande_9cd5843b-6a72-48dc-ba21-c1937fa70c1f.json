@@ -1,0 +1,29 @@
+{
+    "order_id": "9cd5843b-6a72-48dc-ba21-c1937fa70c1f",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:16.624579",
+    "client_id": "C404",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 3080,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

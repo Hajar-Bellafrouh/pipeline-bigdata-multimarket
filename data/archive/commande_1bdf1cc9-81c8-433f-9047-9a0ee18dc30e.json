@@ -1,0 +1,29 @@
+{
+    "order_id": "1bdf1cc9-81c8-433f-9047-9a0ee18dc30e",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:06.336853",
+    "client_id": "C982",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 1650,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

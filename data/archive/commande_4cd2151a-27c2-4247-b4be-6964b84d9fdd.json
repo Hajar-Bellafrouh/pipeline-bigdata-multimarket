@@ -1,0 +1,17 @@
+{
+    "order_id": "4cd2151a-27c2-4247-b4be-6964b84d9fdd",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:26:39.590462",
+    "client_id": "C212",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2400,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

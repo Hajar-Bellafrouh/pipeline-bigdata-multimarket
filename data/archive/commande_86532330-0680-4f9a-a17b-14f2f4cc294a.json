@@ -1,0 +1,23 @@
+{
+    "order_id": "86532330-0680-4f9a-a17b-14f2f4cc294a",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:09:19.766822",
+    "client_id": "C293",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 2640,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

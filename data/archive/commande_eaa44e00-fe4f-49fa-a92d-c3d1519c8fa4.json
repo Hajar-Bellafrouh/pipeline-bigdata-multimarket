@@ -1,0 +1,16 @@
+{
+    "order_id": "eaa44e00-fe4f-49fa-a92d-c3d1519c8fa4",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:53.457842",
+    "client_id": "C238",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 900,
+    "statut": "annulee"
+}

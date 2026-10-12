@@ -1,0 +1,16 @@
+{
+    "order_id": "3e9c7caa-24de-41f5-a5c4-4607279e7e6f",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:29:25.959512",
+    "client_id": "C635",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 200,
+    "statut": "annulee"
+}

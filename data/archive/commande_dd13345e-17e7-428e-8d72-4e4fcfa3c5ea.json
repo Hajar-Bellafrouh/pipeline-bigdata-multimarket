@@ -1,0 +1,23 @@
+{
+    "order_id": "dd13345e-17e7-428e-8d72-4e4fcfa3c5ea",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:21:51.074274",
+    "client_id": "C617",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 1350,
+    "statut": "validee",
+    "adresse_livraison": "Fès"
+}

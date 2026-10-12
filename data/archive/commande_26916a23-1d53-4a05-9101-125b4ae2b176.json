@@ -1,0 +1,28 @@
+{
+    "order_id": "26916a23-1d53-4a05-9101-125b4ae2b176",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:12.032085",
+    "client_id": "C576",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1590,
+    "statut": "annulee"
+}

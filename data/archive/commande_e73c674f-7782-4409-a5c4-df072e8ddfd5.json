@@ -1,0 +1,28 @@
+{
+    "order_id": "e73c674f-7782-4409-a5c4-df072e8ddfd5",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:36:22.862409",
+    "client_id": "C601",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 780,
+    "statut": "validee"
+}

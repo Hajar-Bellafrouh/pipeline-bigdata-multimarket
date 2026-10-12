@@ -1,0 +1,23 @@
+{
+    "order_id": "dc2a8bca-88cf-4518-a4cd-048a92d24500",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:10:44.847210",
+    "client_id": "C879",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 560,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

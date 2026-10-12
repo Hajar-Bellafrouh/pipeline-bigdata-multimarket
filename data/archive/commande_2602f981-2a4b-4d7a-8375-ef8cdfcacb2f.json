@@ -1,0 +1,29 @@
+{
+    "order_id": "2602f981-2a4b-4d7a-8375-ef8cdfcacb2f",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:06.888331",
+    "client_id": "C780",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 790,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

@@ -1,0 +1,16 @@
+{
+    "order_id": "2b328bf9-7d50-422e-ad33-51c772063f9c",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:34:43.664247",
+    "client_id": "C129",
+    "produits": [
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 1800,
+    "statut": "annulee"
+}

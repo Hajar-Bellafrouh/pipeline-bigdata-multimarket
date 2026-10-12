@@ -1,0 +1,17 @@
+{
+    "order_id": "62111c9c-bd2c-4532-8e5f-68253b91f2c2",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:23:51.324196",
+    "client_id": "C204",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 600,
+    "statut": "annulee",
+    "adresse_livraison": "Rabat"
+}

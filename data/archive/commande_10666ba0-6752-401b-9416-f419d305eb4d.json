@@ -1,0 +1,28 @@
+{
+    "order_id": "10666ba0-6752-401b-9416-f419d305eb4d",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:29:43.993914",
+    "client_id": "C619",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 2350,
+    "statut": "annulee"
+}

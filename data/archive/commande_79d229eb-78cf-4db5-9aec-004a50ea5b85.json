@@ -1,0 +1,28 @@
+{
+    "order_id": "79d229eb-78cf-4db5-9aec-004a50ea5b85",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:31:14.198449",
+    "client_id": "C358",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 2180,
+    "statut": "annulee"
+}

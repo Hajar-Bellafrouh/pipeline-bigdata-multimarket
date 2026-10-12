@@ -1,0 +1,29 @@
+{
+    "order_id": "4a690227-65b0-4bd7-ba1c-e5b124dc0174",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:08.544046",
+    "client_id": "C189",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 4140,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

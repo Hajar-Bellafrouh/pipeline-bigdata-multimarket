@@ -1,0 +1,22 @@
+{
+    "order_id": "c6a9c285-8dd5-44c9-83e1-6fa8c3407c6b",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:35:39.793150",
+    "client_id": "C968",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 3000,
+    "statut": "validee"
+}

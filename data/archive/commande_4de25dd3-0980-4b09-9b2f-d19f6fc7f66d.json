@@ -1,0 +1,29 @@
+{
+    "order_id": "4de25dd3-0980-4b09-9b2f-d19f6fc7f66d",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:09:07.755269",
+    "client_id": "C598",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 2100,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

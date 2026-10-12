@@ -1,0 +1,28 @@
+{
+    "order_id": "256f4bf9-31cf-4c03-9495-e725a1b8c0e1",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:30:06.025568",
+    "client_id": "C596",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 3,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 3150,
+    "statut": "validee"
+}

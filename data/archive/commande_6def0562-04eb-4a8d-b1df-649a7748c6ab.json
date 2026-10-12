@@ -1,0 +1,17 @@
+{
+    "order_id": "6def0562-04eb-4a8d-b1df-649a7748c6ab",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:35.929476",
+    "client_id": "C227",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 160,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

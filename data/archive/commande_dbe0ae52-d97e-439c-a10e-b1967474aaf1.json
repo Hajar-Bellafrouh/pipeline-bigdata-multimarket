@@ -1,0 +1,23 @@
+{
+    "order_id": "dbe0ae52-d97e-439c-a10e-b1967474aaf1",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:06:35.508891",
+    "client_id": "C530",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 560,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

@@ -1,0 +1,17 @@
+{
+    "order_id": "cfd9d10a-20a8-494a-9cf7-524cfce523ca",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:45.577982",
+    "client_id": "C716",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

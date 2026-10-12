@@ -1,0 +1,29 @@
+{
+    "order_id": "92c3e719-e950-4bc4-99ea-92e2925e8739",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:26:25.572289",
+    "client_id": "C556",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 2180,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

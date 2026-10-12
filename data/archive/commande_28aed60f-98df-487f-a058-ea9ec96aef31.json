@@ -1,0 +1,23 @@
+{
+    "order_id": "28aed60f-98df-487f-a058-ea9ec96aef31",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:13:40.075354",
+    "client_id": "C327",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 3680,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

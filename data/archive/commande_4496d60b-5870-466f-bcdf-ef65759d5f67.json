@@ -1,0 +1,17 @@
+{
+    "order_id": "4496d60b-5870-466f-bcdf-ef65759d5f67",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:03.541653",
+    "client_id": "C310",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 400,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

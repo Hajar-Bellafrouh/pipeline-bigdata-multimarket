@@ -1,0 +1,22 @@
+{
+    "order_id": "ac56de36-d622-4bd0-9814-55f722d9fc0e",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:35:49.800362",
+    "client_id": "C418",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 4200,
+    "statut": "validee"
+}

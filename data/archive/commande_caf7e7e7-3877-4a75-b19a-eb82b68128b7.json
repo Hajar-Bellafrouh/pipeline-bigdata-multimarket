@@ -1,0 +1,17 @@
+{
+    "order_id": "caf7e7e7-3877-4a75-b19a-eb82b68128b7",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:43.202706",
+    "client_id": "C317",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2400,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

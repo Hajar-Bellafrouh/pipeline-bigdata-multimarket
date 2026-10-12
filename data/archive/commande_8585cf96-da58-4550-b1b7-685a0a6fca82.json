@@ -1,0 +1,29 @@
+{
+    "order_id": "8585cf96-da58-4550-b1b7-685a0a6fca82",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:40.652383",
+    "client_id": "C768",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 3000,
+    "statut": "annulee",
+    "adresse_livraison": "Rabat"
+}

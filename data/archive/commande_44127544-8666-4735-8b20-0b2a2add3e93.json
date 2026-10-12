@@ -1,0 +1,23 @@
+{
+    "order_id": "44127544-8666-4735-8b20-0b2a2add3e93",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:19:48.840231",
+    "client_id": "C170",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 480,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

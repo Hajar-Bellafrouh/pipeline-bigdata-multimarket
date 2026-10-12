@@ -1,0 +1,23 @@
+{
+    "order_id": "55581f05-626e-4765-aa65-c0b7fa0b4537",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:14:19.138339",
+    "client_id": "C982",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 2480,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

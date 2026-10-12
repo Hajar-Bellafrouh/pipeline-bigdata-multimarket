@@ -1,0 +1,28 @@
+{
+    "order_id": "95b7ff4d-daca-4de6-8cb6-1b4d03078c90",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:31:54.279275",
+    "client_id": "C854",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 4600,
+    "statut": "validee"
+}

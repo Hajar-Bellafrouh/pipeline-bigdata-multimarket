@@ -1,0 +1,23 @@
+{
+    "order_id": "db69882c-9114-4f9e-b462-34d64a88e531",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:05:03.246414",
+    "client_id": "C567",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 900,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

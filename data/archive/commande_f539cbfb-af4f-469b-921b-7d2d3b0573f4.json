@@ -1,0 +1,17 @@
+{
+    "order_id": "f539cbfb-af4f-469b-921b-7d2d3b0573f4",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:20.165290",
+    "client_id": "C369",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 400,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

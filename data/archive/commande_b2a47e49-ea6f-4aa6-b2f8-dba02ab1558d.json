@@ -1,0 +1,17 @@
+{
+    "order_id": "b2a47e49-ea6f-4aa6-b2f8-dba02ab1558d",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:14:34.170696",
+    "client_id": "C440",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 160,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

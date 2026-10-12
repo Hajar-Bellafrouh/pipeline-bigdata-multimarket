@@ -1,0 +1,22 @@
+{
+    "order_id": "4af07d41-e656-4396-b9ef-4e2eea8f2fea",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:39:29.171300",
+    "client_id": "C843",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 900,
+    "statut": "validee"
+}

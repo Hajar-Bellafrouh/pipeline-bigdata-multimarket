@@ -1,0 +1,17 @@
+{
+    "order_id": "401635e1-ea1c-421d-8251-df41ac22b6be",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:56.435145",
+    "client_id": "C616",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

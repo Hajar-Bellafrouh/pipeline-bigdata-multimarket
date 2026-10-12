@@ -1,0 +1,23 @@
+{
+    "order_id": "cb4e7ddc-0457-4878-bfbd-6940571dbce9",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:11.891176",
+    "client_id": "C388",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 540,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

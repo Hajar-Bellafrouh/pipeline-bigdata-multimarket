@@ -1,0 +1,17 @@
+{
+    "order_id": "a208bcfd-0a49-47f7-9d04-422f737bb5c0",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:04.334308",
+    "client_id": "C372",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 450,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

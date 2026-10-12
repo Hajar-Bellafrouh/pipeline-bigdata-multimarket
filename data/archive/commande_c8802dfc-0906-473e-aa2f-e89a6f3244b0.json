@@ -1,0 +1,22 @@
+{
+    "order_id": "c8802dfc-0906-473e-aa2f-e89a6f3244b0",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:47.083528",
+    "client_id": "C644",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2700,
+    "statut": "annulee"
+}

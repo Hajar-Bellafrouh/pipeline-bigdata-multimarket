@@ -1,0 +1,23 @@
+{
+    "order_id": "3617e2ec-ee23-46f1-a2c1-c77b292f2bc0",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:25:25.459309",
+    "client_id": "C559",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 650,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

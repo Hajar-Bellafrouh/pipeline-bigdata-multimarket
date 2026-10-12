@@ -1,0 +1,17 @@
+{
+    "order_id": "88fc05c2-c870-40ca-b6bc-e89a9cbec50c",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:09:40.789349",
+    "client_id": "C870",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 600,
+    "statut": "annulee",
+    "adresse_livraison": "Casablanca"
+}

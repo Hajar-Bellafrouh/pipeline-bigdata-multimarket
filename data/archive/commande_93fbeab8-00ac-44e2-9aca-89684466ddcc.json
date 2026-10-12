@@ -1,0 +1,29 @@
+{
+    "order_id": "93fbeab8-00ac-44e2-9aca-89684466ddcc",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:08:08.628128",
+    "client_id": "C177",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2040,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

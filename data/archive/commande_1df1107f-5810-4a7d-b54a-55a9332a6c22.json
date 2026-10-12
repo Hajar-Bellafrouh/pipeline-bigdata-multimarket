@@ -1,0 +1,17 @@
+{
+    "order_id": "1df1107f-5810-4a7d-b54a-55a9332a6c22",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:11:23.908993",
+    "client_id": "C531",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 600,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

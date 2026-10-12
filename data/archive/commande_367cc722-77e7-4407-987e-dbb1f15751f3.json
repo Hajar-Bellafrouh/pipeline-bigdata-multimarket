@@ -1,0 +1,23 @@
+{
+    "order_id": "367cc722-77e7-4407-987e-dbb1f15751f3",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:10.618845",
+    "client_id": "C152",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 1600,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

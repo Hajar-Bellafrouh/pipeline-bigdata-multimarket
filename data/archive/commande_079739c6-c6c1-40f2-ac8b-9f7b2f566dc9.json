@@ -1,0 +1,17 @@
+{
+    "order_id": "079739c6-c6c1-40f2-ac8b-9f7b2f566dc9",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:15:21.232067",
+    "client_id": "C762",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

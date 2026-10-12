@@ -1,0 +1,23 @@
+{
+    "order_id": "c43fe7ad-98f9-4b93-bbb4-f7fc5b54e02c",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:26:28.576188",
+    "client_id": "C634",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 1050,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

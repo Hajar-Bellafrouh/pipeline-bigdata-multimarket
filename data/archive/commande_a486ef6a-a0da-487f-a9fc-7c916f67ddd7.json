@@ -1,0 +1,29 @@
+{
+    "order_id": "a486ef6a-a0da-487f-a9fc-7c916f67ddd7",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:10:50.857800",
+    "client_id": "C984",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2840,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

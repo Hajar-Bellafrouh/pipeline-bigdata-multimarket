@@ -1,0 +1,23 @@
+{
+    "order_id": "7fc06553-c812-4f4b-956c-a84538b14192",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:53.594587",
+    "client_id": "C910",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 390,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

@@ -1,0 +1,22 @@
+{
+    "order_id": "e6f3aa74-6c0c-4acd-b6df-8112546d85ab",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:25.342169",
+    "client_id": "C903",
+    "produits": [
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 2100,
+    "statut": "validee"
+}

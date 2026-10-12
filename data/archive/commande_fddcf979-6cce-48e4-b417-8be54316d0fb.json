@@ -1,0 +1,29 @@
+{
+    "order_id": "fddcf979-6cce-48e4-b417-8be54316d0fb",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:15:25.234049",
+    "client_id": "C312",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 1810,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

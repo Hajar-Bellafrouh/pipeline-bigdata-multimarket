@@ -1,0 +1,22 @@
+{
+    "order_id": "6c5cdb08-b4a3-482b-891e-14e065603e24",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:34:21.621228",
+    "client_id": "C757",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 690,
+    "statut": "annulee"
+}

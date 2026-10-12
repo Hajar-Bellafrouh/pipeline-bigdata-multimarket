@@ -1,0 +1,28 @@
+{
+    "order_id": "60d7769c-cc6d-4631-80f6-58c63617aee7",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:29:06.888420",
+    "client_id": "C197",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 3,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 6540,
+    "statut": "annulee"
+}

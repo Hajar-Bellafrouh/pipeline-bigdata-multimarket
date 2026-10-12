@@ -1,0 +1,23 @@
+{
+    "order_id": "95f539a8-f725-4f7b-af92-392cd94a2d68",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:11:01.882771",
+    "client_id": "C973",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2480,
+    "statut": "validee",
+    "adresse_livraison": "Casablanca"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "246456bc-1e8b-4060-848c-48667c4619a1",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:27:32.638709",
+    "client_id": "C645",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 680,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

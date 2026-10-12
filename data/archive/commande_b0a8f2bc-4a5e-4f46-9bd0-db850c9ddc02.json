@@ -1,0 +1,29 @@
+{
+    "order_id": "b0a8f2bc-4a5e-4f46-9bd0-db850c9ddc02",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:15.347183",
+    "client_id": "C690",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 800,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

@@ -1,0 +1,17 @@
+{
+    "order_id": "8ef14ab2-79ae-4bef-a1b0-c517dfe7b845",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:15:07.219784",
+    "client_id": "C957",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1200,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

@@ -1,0 +1,29 @@
+{
+    "order_id": "5942f07e-e477-41ca-b339-99156bf6a4e1",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:26:09.556976",
+    "client_id": "C999",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 1750,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

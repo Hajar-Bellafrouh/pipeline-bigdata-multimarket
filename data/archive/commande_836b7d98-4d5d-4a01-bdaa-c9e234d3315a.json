@@ -1,0 +1,22 @@
+{
+    "order_id": "836b7d98-4d5d-4a01-bdaa-c9e234d3315a",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:50.437717",
+    "client_id": "C415",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 1,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 980,
+    "statut": "annulee"
+}

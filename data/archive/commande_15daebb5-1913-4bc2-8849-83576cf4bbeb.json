@@ -1,0 +1,23 @@
+{
+    "order_id": "15daebb5-1913-4bc2-8849-83576cf4bbeb",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:28:07.682416",
+    "client_id": "C402",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 380,
+    "statut": "validee",
+    "adresse_livraison": "Fès"
+}

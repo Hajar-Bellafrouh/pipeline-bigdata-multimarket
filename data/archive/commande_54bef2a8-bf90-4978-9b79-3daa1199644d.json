@@ -1,0 +1,22 @@
+{
+    "order_id": "54bef2a8-bf90-4978-9b79-3daa1199644d",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:57.096294",
+    "client_id": "C408",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2480,
+    "statut": "annulee"
+}

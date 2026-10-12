@@ -1,0 +1,16 @@
+{
+    "order_id": "c3e73615-70f9-4bda-a8cb-9a444bff32b9",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:33:13.508524",
+    "client_id": "C669",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 300,
+    "statut": "validee"
+}

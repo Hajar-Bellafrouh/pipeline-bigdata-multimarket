@@ -1,0 +1,23 @@
+{
+    "order_id": "4c118e75-d5ff-4294-98d0-40e1ebb6ed33",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:10:46.851192",
+    "client_id": "C881",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2800,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

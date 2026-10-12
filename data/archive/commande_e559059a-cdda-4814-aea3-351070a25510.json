@@ -1,0 +1,17 @@
+{
+    "order_id": "e559059a-cdda-4814-aea3-351070a25510",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:19:57.848841",
+    "client_id": "C624",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 600,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

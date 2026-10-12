@@ -1,0 +1,22 @@
+{
+    "order_id": "e958eb2e-5f54-4e0e-99ce-86f4023ea719",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:29.365564",
+    "client_id": "C503",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 3,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 2900,
+    "statut": "annulee"
+}

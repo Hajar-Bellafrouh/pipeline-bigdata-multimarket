@@ -1,0 +1,16 @@
+{
+    "order_id": "7bf7f191-3818-4e53-9c69-802f69fa569b",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:30.051537",
+    "client_id": "C784",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1200,
+    "statut": "validee"
+}

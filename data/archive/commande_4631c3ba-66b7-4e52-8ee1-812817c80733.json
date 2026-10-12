@@ -1,0 +1,29 @@
+{
+    "order_id": "4631c3ba-66b7-4e52-8ee1-812817c80733",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:12:00.947385",
+    "client_id": "C714",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 2750,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

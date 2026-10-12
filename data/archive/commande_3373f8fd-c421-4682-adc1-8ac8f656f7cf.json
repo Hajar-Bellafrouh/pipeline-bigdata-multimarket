@@ -1,0 +1,23 @@
+{
+    "order_id": "3373f8fd-c421-4682-adc1-8ac8f656f7cf",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:01.330375",
+    "client_id": "C660",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 550,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

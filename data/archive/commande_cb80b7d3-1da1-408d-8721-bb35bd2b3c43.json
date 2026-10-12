@@ -1,0 +1,17 @@
+{
+    "order_id": "cb80b7d3-1da1-408d-8721-bb35bd2b3c43",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:25:21.455925",
+    "client_id": "C536",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2400,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

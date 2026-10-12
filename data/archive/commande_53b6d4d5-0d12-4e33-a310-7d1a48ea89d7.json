@@ -1,0 +1,17 @@
+{
+    "order_id": "53b6d4d5-0d12-4e33-a310-7d1a48ea89d7",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:14:11.124911",
+    "client_id": "C548",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 80,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

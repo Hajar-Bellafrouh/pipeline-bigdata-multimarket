@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Commandes générées en continu par les simulateurs (avant collecte)
+data/sources/*/*.json

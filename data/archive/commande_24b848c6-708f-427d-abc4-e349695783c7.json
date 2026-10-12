@@ -1,0 +1,28 @@
+{
+    "order_id": "24b848c6-708f-427d-abc4-e349695783c7",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:34:06.611025",
+    "client_id": "C452",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 1,
+            "prix_unitaire": 900
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 1460,
+    "statut": "annulee"
+}

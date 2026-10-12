@@ -1,0 +1,23 @@
+{
+    "order_id": "7dee0aeb-0faf-429c-91d9-1aeae497730c",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:21:59.117297",
+    "client_id": "C746",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 460,
+    "statut": "annulee",
+    "adresse_livraison": "Rabat"
+}

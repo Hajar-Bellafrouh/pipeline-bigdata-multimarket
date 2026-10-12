@@ -1,0 +1,29 @@
+{
+    "order_id": "56639383-6184-4410-aa21-2b5e03a7ee23",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:10:04.814750",
+    "client_id": "C380",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 940,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

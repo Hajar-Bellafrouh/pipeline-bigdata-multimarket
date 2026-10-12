@@ -1,0 +1,17 @@
+{
+    "order_id": "de516bd9-2581-4559-8efe-42a00ac24820",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:04:17.117368",
+    "client_id": "C959",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 2400,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

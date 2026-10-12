@@ -1,0 +1,29 @@
+{
+    "order_id": "f81100f3-9156-4f27-9522-b744392be7f1",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:25:41.488405",
+    "client_id": "C594",
+    "produits": [
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 3,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 1740,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

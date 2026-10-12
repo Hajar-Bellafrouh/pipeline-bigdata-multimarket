@@ -1,0 +1,23 @@
+{
+    "order_id": "6844ef45-453c-487c-b819-1d991cd50029",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:37.183657",
+    "client_id": "C689",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 700,
+    "statut": "annulee",
+    "adresse_livraison": "Fès"
+}

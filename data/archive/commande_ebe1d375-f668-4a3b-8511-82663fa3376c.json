@@ -1,0 +1,17 @@
+{
+    "order_id": "ebe1d375-f668-4a3b-8511-82663fa3376c",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:41.575300",
+    "client_id": "C805",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 2,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 400,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

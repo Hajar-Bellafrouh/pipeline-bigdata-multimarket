@@ -1,0 +1,16 @@
+{
+    "order_id": "cd603c22-eee0-4f27-89b1-90b02935059c",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:07.026194",
+    "client_id": "C344",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 240,
+    "statut": "annulee"
+}

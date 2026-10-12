@@ -1,0 +1,17 @@
+{
+    "order_id": "15bbb3fe-eee9-41f1-9921-51f0d06ab1a2",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:20:03.869273",
+    "client_id": "C373",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1200,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

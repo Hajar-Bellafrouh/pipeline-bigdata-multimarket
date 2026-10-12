@@ -1,0 +1,23 @@
+{
+    "order_id": "c8f2df7d-ce83-4ba4-9dae-92e623d668df",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:05:18.260065",
+    "client_id": "C131",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 3750,
+    "statut": "annulee",
+    "adresse_livraison": "Tanger"
+}

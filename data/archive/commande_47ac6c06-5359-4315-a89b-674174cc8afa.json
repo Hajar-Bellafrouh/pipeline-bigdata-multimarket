@@ -1,0 +1,16 @@
+{
+    "order_id": "47ac6c06-5359-4315-a89b-674174cc8afa",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:32:11.321620",
+    "client_id": "C130",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 240,
+    "statut": "annulee"
+}

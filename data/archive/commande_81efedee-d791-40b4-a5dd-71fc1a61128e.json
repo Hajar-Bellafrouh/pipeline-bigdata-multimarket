@@ -1,0 +1,23 @@
+{
+    "order_id": "81efedee-d791-40b4-a5dd-71fc1a61128e",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:13:19.052411",
+    "client_id": "C380",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 280,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

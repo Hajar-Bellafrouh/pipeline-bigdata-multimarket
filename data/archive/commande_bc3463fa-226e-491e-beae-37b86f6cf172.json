@@ -1,0 +1,29 @@
+{
+    "order_id": "bc3463fa-226e-491e-beae-37b86f6cf172",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:12:29.003511",
+    "client_id": "C217",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 1,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 3,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 590,
+    "statut": "validee",
+    "adresse_livraison": "Tanger"
+}

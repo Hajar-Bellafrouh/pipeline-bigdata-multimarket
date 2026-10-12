@@ -1,0 +1,22 @@
+{
+    "order_id": "e8b7f79d-a0f3-4c8d-9f46-d081ff8e3989",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:38:37.057315",
+    "client_id": "C180",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 3,
+            "prix_unitaire": 900
+        }
+    ],
+    "montant_total": 5100,
+    "statut": "annulee"
+}

@@ -1,0 +1,23 @@
+{
+    "order_id": "339561be-946e-49bd-bae3-1d70cc9ab1f4",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:23:20.257579",
+    "client_id": "C361",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        }
+    ],
+    "montant_total": 360,
+    "statut": "annulee",
+    "adresse_livraison": "Marrakech"
+}

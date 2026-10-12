@@ -1,0 +1,17 @@
+{
+    "order_id": "86058e68-e509-4dbf-86a1-9ceee3bdc44f",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:22:13.140736",
+    "client_id": "C946",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 1200,
+    "statut": "annulee",
+    "adresse_livraison": "Rabat"
+}

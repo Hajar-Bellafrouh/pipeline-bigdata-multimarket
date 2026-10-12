@@ -1,0 +1,23 @@
+{
+    "order_id": "59e8f475-1362-4a89-a54b-e3bce680a376",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:05:36.314685",
+    "client_id": "C957",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 1,
+            "prix_unitaire": 200
+        }
+    ],
+    "montant_total": 1400,
+    "statut": "validee",
+    "adresse_livraison": "Rabat"
+}

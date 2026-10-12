@@ -1,0 +1,28 @@
+{
+    "order_id": "cdf682f3-6891-410b-8b5c-4138613471f9",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:37:18.935120",
+    "client_id": "C171",
+    "produits": [
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 1,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 3,
+            "prix_unitaire": 1200
+        }
+    ],
+    "montant_total": 4280,
+    "statut": "annulee"
+}

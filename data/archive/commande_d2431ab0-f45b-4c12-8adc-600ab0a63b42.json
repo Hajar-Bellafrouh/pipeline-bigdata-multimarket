@@ -1,0 +1,23 @@
+{
+    "order_id": "d2431ab0-f45b-4c12-8adc-600ab0a63b42",
+    "canal": "mobile",
+    "date_commande": "2026-01-02T10:24:44.403572",
+    "client_id": "C603",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 1,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 1500,
+    "statut": "validee",
+    "adresse_livraison": "Fès"
+}

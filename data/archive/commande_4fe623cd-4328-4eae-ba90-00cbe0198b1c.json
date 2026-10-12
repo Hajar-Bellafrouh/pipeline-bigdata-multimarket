@@ -1,0 +1,28 @@
+{
+    "order_id": "4fe623cd-4328-4eae-ba90-00cbe0198b1c",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:33:41.551614",
+    "client_id": "C556",
+    "produits": [
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        },
+        {
+            "produit_id": "P02",
+            "nom": "Souris",
+            "quantite": 2,
+            "prix_unitaire": 80
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 1060,
+    "statut": "validee"
+}

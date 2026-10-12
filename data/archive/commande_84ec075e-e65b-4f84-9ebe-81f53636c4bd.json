@@ -1,0 +1,23 @@
+{
+    "order_id": "84ec075e-e65b-4f84-9ebe-81f53636c4bd",
+    "canal": "web",
+    "date_commande": "2026-01-02T10:07:58.602476",
+    "client_id": "C422",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 2,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 2700,
+    "statut": "validee",
+    "adresse_livraison": "Marrakech"
+}

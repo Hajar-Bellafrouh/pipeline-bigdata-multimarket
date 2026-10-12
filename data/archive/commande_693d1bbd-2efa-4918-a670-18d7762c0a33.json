@@ -1,0 +1,28 @@
+{
+    "order_id": "693d1bbd-2efa-4918-a670-18d7762c0a33",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:39:00.100634",
+    "client_id": "C583",
+    "produits": [
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 1,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P06",
+            "nom": "Imprimante",
+            "quantite": 2,
+            "prix_unitaire": 900
+        },
+        {
+            "produit_id": "P05",
+            "nom": "Webcam",
+            "quantite": 2,
+            "prix_unitaire": 300
+        }
+    ],
+    "montant_total": 3600,
+    "statut": "annulee"
+}

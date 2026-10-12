@@ -1,0 +1,28 @@
+{
+    "order_id": "192be0d8-b893-4a36-b41f-7e96c5c66191",
+    "canal": "boutique",
+    "date_commande": "2026-01-02T10:29:38.973790",
+    "client_id": "C339",
+    "produits": [
+        {
+            "produit_id": "P04",
+            "nom": "Casque",
+            "quantite": 3,
+            "prix_unitaire": 200
+        },
+        {
+            "produit_id": "P03",
+            "nom": "Écran",
+            "quantite": 2,
+            "prix_unitaire": 1200
+        },
+        {
+            "produit_id": "P01",
+            "nom": "Clavier",
+            "quantite": 3,
+            "prix_unitaire": 150
+        }
+    ],
+    "montant_total": 3450,
+    "statut": "validee"
+}
